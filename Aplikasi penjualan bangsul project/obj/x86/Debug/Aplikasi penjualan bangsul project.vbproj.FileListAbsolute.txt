@@ -1,0 +1,28 @@
+D:\Aplikasi penjualan bangsul project\Aplikasi penjualan bangsul project\bin\Debug\Aplikasi penjualan bangsul project.exe
+D:\Aplikasi penjualan bangsul project\Aplikasi penjualan bangsul project\bin\Debug\Aplikasi penjualan bangsul project.pdb
+D:\Aplikasi penjualan bangsul project\Aplikasi penjualan bangsul project\bin\Debug\Aplikasi penjualan bangsul project.xml
+D:\Aplikasi penjualan bangsul project\Aplikasi penjualan bangsul project\obj\x86\Debug\Aplikasi_penjualan_bangsul_project.Form_Menu.resources
+D:\Aplikasi penjualan bangsul project\Aplikasi penjualan bangsul project\obj\x86\Debug\Aplikasi_penjualan_bangsul_project.Resources.resources
+D:\Aplikasi penjualan bangsul project\Aplikasi penjualan bangsul project\obj\x86\Debug\Aplikasi penjualan bangsul project.vbproj.GenerateResource.Cache
+D:\Aplikasi penjualan bangsul project\Aplikasi penjualan bangsul project\obj\x86\Debug\Aplikasi penjualan bangsul project.exe
+D:\Aplikasi penjualan bangsul project\Aplikasi penjualan bangsul project\obj\x86\Debug\Aplikasi penjualan bangsul project.xml
+D:\Aplikasi penjualan bangsul project\Aplikasi penjualan bangsul project\obj\x86\Debug\Aplikasi penjualan bangsul project.pdb
+D:\Aplikasi penjualan bangsul project\Aplikasi penjualan bangsul project\obj\x86\Debug\Aplikasi_penjualan_bangsul_project.Form1.resources
+D:\Aplikasi penjualan bangsul project\Aplikasi penjualan bangsul project\obj\x86\Debug\Aplikasi_penjualan_bangsul_project.Form_Barang.resources
+D:\Aplikasi penjualan bangsul project\Aplikasi penjualan bangsul project\obj\x86\Debug\Aplikasi_penjualan_bangsul_project.Form_input_barang.resources
+D:\Aplikasi penjualan bangsul project\Aplikasi penjualan bangsul project\obj\x86\Debug\Aplikasi_penjualan_bangsul_project.Form_penjualan.resources
+D:\Aplikasi penjualan bangsul project\Aplikasi penjualan bangsul project\bin\Debug\Aplikasi penjualan bangsul project.exe.config
+D:\Aplikasi penjualan bangsul project\Aplikasi penjualan bangsul project\obj\x86\Debug\Aplikasi penjualan bangsul project.vbprojResolveAssemblyReference.cache
+D:\Aplikasi penjualan bangsul project\Aplikasi penjualan bangsul project\obj\x86\Debug\Aplikasi_penjualan_bangsul_project.Form_lap_barang.resources
+D:\Aplikasi penjualan bangsul project\Aplikasi penjualan bangsul project\obj\x86\Debug\Aplikasi_penjualan_bangsul_project.Form_lap_jual_harian.resources
+D:\Aplikasi penjualan bangsul project\Aplikasi penjualan bangsul project\obj\x86\Debug\Aplikasi_penjualan_bangsul_project.Form_Lap_Jual_Bulan.resources
+D:\Aplikasi penjualan bangsul project\Aplikasi penjualan bangsul project\obj\x86\Debug\Aplikasi_penjualan_bangsul_project.Form_flash.resources
+D:\Aplikasi penjualan bangsul project\Aplikasi penjualan bangsul project\obj\x86\Debug\Aplikasi_penjualan_bangsul_project.Form_user.resources
+D:\Aplikasi penjualan bangsul project\Aplikasi penjualan bangsul project\obj\x86\Debug\Aplikasi_penjualan_bangsul_project.Form_login.resources
+D:\Aplikasi penjualan bangsul project\Aplikasi penjualan bangsul project\obj\x86\Debug\Aplikasi_penjualan_bangsul_project.FormCariBarang.resources
+D:\Aplikasi penjualan bangsul project\Aplikasi penjualan bangsul project\obj\x86\Debug\Aplikasi_penjualan_bangsul_project.FormCetakFaktur.resources
+D:\Aplikasi penjualan bangsul project\Aplikasi penjualan bangsul project\bin\Debug\Interop.Crystal.dll
+D:\Aplikasi penjualan bangsul project\Aplikasi penjualan bangsul project\bin\Debug\AxInterop.Crystal.dll
+D:\Aplikasi penjualan bangsul project\Aplikasi penjualan bangsul project\obj\x86\Debug\Interop.Crystal.dll
+D:\Aplikasi penjualan bangsul project\Aplikasi penjualan bangsul project\obj\x86\Debug\AxInterop.Crystal.dll
+D:\Aplikasi penjualan bangsul project\Aplikasi penjualan bangsul project\obj\x86\Debug\Aplikasi penjualan bangsul project.vbproj.ResolveComReference.cache
